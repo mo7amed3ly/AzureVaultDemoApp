@@ -115,6 +115,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CertificateReader.cs" />
     <Compile Include="ConfigReader.cs" />
     <Compile Include="Models\Configuration.cs" />
     <Compile Include="Program.cs" />
